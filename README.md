@@ -14,8 +14,7 @@ We know how important it is to feel connected, especially in a world where it’
 
 ## Some screenshot of our prototype on Figma 
 
-![login-page](https://github.com/user-attachments/assets/1c69ac3d-41f1-439a-bcd0-ecf364f8c44b)
+![login-page](https://github.com/user-attachments/assets/1c69ac3d-41f1-439a-bcd0-ecf364f8c44b)    ![announce-football-page](https://github.com/user-attachments/assets/d7e61b53-cae7-4b75-9480-f93dfaec5608)
 
-
-
+![view-prototype-figma](https://github.com/user-attachments/assets/500220db-a690-4c96-8039-089c02e6b229)
 
