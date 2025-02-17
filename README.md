@@ -11,3 +11,11 @@ It is a Social Networking app designed to connect people with similar interests 
 It’s not just about sports or video games—it’s about building connections, creating communities, and making sure no one feels alone in a new city.
 
 We know how important it is to feel connected, especially in a world where it’s easy to feel isolated. That’s why TeamUp isn’t just a basic app, it’s a tool to help you build real-life connections.
+
+## Some screenshot of our prototype on Figma 
+
+![login-page](https://github.com/user-attachments/assets/1c69ac3d-41f1-439a-bcd0-ecf364f8c44b)
+
+
+
+
